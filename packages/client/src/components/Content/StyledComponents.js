@@ -11,7 +11,8 @@ const TopItemStyles = styled('div')`
   .gridItem {
     width: 12.5%;
     height: 30px;
-    border: solid 1px #e6e6e6;
+    border-bottom: solid 2px #e6e6e6;
+    border-right: solid 2px #e6e6e6;
 
     div {
       width: 96%;
@@ -36,7 +37,7 @@ const CenterItemStyles = styled('div')`
       margin: 0;
       text-align: end;
       margin-right: 10px;
-      margin-top: -12px;
+      margin-top: -19px;
       font-size: 24px;
     }
   }
@@ -44,7 +45,8 @@ const CenterItemStyles = styled('div')`
   .gridItem {
     width: 12.5%;
     height: 60px;
-    border: solid 1px #e6e6e6;
+    border-bottom: solid 2px #e6e6e6;
+    border-right: solid 2px #e6e6e6;
 
     div {
       width: 96%;
@@ -70,7 +72,7 @@ const BottomItemStyles = styled('div')`
       margin: 0;
       text-align: end;
       margin-right: 10px;
-      margin-top: -12px;
+      margin-top: -19px;
       font-size: 24px;
     }
   }
@@ -78,7 +80,8 @@ const BottomItemStyles = styled('div')`
   .gridItem {
     width: 12.5%;
     height: 30px;
-    border: solid 1px #e6e6e6;
+    border-bottom: solid 2px #e6e6e6;
+    border-right: solid 2px #e6e6e6;
 
     div {
       width: 96%;
